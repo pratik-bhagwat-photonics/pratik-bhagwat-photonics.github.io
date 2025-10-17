@@ -9,52 +9,52 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Pratik's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Pratik Bhagwat"
+description : &description "MSc in Photonics at Lund University | Physics & Photonics Enthusiast | Exploring science, language, and technology" # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://pratik-bhagwat-photonics.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io", # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pratik-bhagwat-photonics/pratik-bhagwat-photonics.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Pratik.jpg"
+  name             : "Pratik Bhagwat"
+  pronouns         : "he/him"
+  bio              : "MSc student in Photonics at Lund University. Passionate about physics, photonics, and applying analytical methods."
+  location         : "Lund, Sweden"
+  employer         : "Lunds Tekniska Högskola, Lund University"
+  uri              : "https://pratik-bhagwat-photonics.github.io"
+  email            : "pratikbhagwat0379@gmail.com"
+ 
 
-  # Academic websites
-  academia         : # URL
+# Academic websites
+  academia         : "https://www.chemphys.lu.se/people/master-students/pratik-bhagwat/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rYOKtgcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-5764-723X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Pratik-Bhagwat-3"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "pratik-bhagwat-photonics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pratikbhagwat0379"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -89,14 +89,14 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+teaser                   :  "Pratik.jpg"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false (default)
   disqus:
     shortname            :
   discourse:
@@ -126,35 +126,29 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# =========================== 
+# SEO & Social Sharing
+# ===========================
+  og_image : "/images/Pratik.jpg"
+  og_description : "MSc in Photonics at Lund University | Light/Photon Enthusiast"
+  social: 
+  type : Person 
+  name : "Pratik Bhagwat" 
+  links: 
+         - "https://github.com/pratik-bhagwat-photonics"
+         - "https://www.linkedin.com/in/pratikbhagwat0379"
+         - "https://scholar.google.com/citations?hl=en&user=rYOKtgcAAAAJ"
+         - "https://orcid.org/0009-0005-5764-723X"
 
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id: "G-Z9HW8W1M6J"
 
 
 # Reading Files
@@ -242,7 +236,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -260,7 +254,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -269,7 +263,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -278,7 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -286,8 +280,17 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
+# ===========================
+# Markdown & Sass
+# =========================== 
+markdown: kramdown 
+highlighter: rouge 
+kramdown:
+ input: GFM
+ auto_ids: true
+ toc_levels: 1..6
 
 # Sass/SCSS
 sass:
@@ -299,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
