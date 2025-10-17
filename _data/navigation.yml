@@ -8,26 +8,32 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "About"
+    url: /about/
+
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+    url: /teaching/
+
+# - title: "Projects"
+#   url: /portfolio/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Beyond the Lab"
+    url: /beyond/
+
+# - title: "CV"
+#   url: /files/CV_Bhagwat.pdf
+
+  - title: "Contact"
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/

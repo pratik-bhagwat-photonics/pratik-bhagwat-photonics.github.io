@@ -28,4 +28,4 @@ This site serves as my **academic homepage and portfolio**. Here you’ll find:
 
 ---
 
-📬 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/pratikbhagwat0379), [GitHub](https://github.com/pratik-bhagwat-photonics), or email me at *pratikbhagwat0379@gmail.com*.
+📬 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/pratikbhagwat0379), or email me at *pratikbhagwat0379@gmail.com*.
