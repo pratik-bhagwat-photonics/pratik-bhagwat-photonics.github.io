@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# About Me
-
 I’m **Pratik Bhagwat**, a physicist and photonics researcher with a passion for understanding how light interacts with
 matter.
 My academic journey has taken me from **Savitribai Phule Pune University in India** to **Lund University in Sweden**,

@@ -2,7 +2,7 @@
 title: "Observation of Chiral Phonons in Methylbenzylammonium Lead Iodide"
 collection: publications
 category: pre-print
-permalink: /publication/2025-07-14-paper-title-number-1
+permalink: /publications/2025-07-14-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-07-14
 venue: 'arXiv'
@@ -13,3 +13,5 @@ Author: 'Sankaran Ramesh and Prasenjit Mandal and Pratik Bhagwat and Yong Li and
 doi: 'https://doi.org/10.48550/arXiv.2507.10036'
 ---
 An optical phonon at 2.5 meV is observed in a thin film of the chiral metal halide (R-MBA)PbI, but is absent in the racemic counterpart, as revealed by femtosecond transient absorption spectroscopy. This experimental result indicates the chiral origin of the 2.5 meV mode and supports recent theoretical predictions of chirality transfer from the organic to the inorganic layers, with implications for the spin polarization properties of hybrid metal halides and perovskites.
+
+======

@@ -80,13 +80,15 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+publications_category:
   books:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+    pre-print:
+      title: 'Pre-prints'
 
 # Site Settings
 teaser                   :  "Pratik.jpg"

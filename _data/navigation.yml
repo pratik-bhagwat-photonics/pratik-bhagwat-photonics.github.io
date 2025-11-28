@@ -20,8 +20,8 @@ main:
 # - title: "Projects"
 #   url: /portfolio/
 
-  - title: "Talks"
-    url: /talks/
+#  - title: "Talks"
+#    url: /talks/
 
   - title: "Blog"
     url: /blog/
