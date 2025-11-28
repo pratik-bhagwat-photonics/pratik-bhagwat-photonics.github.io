@@ -20,4 +20,5 @@ Responsibilities
 • Arranged practical work sessions and guided students on the procedures of performing specific experiments.
 • Informed students about the recent technological advancements based upon the fundamental principles of physics.
 • Conducted course assessment tests and provided test feedback.
+
 ======
