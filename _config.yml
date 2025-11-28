@@ -25,9 +25,9 @@ author:
   avatar           : "Pratik.jpg"
   name             : "Pratik Bhagwat"
   pronouns         : "he/him"
-  bio              : "MSc student in Photonics at Lund University. Passionate about physics, photonics, and applying analytical methods."
+  bio              : "MSc student in Photonics at Lund University. Passionate about physics, photonics, and ultrafast spectroscopy"
   location         : "Lund, Sweden"
-  employer         : "Lunds Tekniska Högskola, Lund University"
+  employer         : "LTH, Lunds Universitet"
   uri              : "https://pratik-bhagwat-photonics.github.io"
   email            : "pratikbhagwat0379@gmail.com"
  
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "pratik-bhagwat-photonics"
+  #github           : "pratik-bhagwat-photonics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -135,7 +135,7 @@ atom_feed:
   type : Person 
   name : "Pratik Bhagwat" 
   links: 
-         - "https://github.com/pratik-bhagwat-photonics"
+         #- "https://github.com/pratik-bhagwat-photonics"
          - "https://www.linkedin.com/in/pratikbhagwat0379"
          - "https://scholar.google.com/citations?hl=en&user=rYOKtgcAAAAJ"
          - "https://orcid.org/0009-0005-5764-723X"
