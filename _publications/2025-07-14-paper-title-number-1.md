@@ -1,9 +1,9 @@
 ---
 title: "Observation of Chiral Phonons in Methylbenzylammonium Lead Iodide"
 collection: publications
-category: pre-print
+category: pre-prints
 permalink: /publications/2025-07-14-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about coherent phonon of chiral metal halide.'
 date: 2025-07-14
 venue: 'arXiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

@@ -87,8 +87,8 @@ publications_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-    pre-print:
-      title: 'Pre-prints'
+  pre-prints:
+    title: 'Pre-prints'
 
 # Site Settings
 teaser                   :  "Pratik.jpg"
