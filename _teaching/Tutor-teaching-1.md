@@ -3,7 +3,7 @@ title: " Private Tutor"
 collection: teaching
 type: "Tutor"
 permalink: /teaching/Tutor-teaching-1
-date: Flexible
+date: 2017-06-06
 location: "Pune, India"
 ---
 
