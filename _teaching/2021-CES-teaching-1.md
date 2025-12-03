@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-CES-teaching-1
 venue: "Camp Education Society’s Dr. Arvind B. Telang Senior College, (Affiliated to Savitribai Phule Pune University) (Formerly University of Pune), Dept. of Physics"
-date: 2021-31-12
+date: 2021-12-31
 location: "Nigdi, Pune, India"
 ---
  
