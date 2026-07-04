@@ -5,23 +5,30 @@ layout: single
 author_profile: true
 ---
 
-# Welcome to My Academic Homepage
-
-Hello, I’m **Pratik Bhagwat** — MSc student in **Photonics at Lund University**.
-My research explores **ultrafast light–matter interactions, nanomaterials, and photonic technologies**.
+Every experiment reveals something about the physical processes that govern the behaviour of materials. Optical spectroscopy provides one way of observing those processes after photoexcitation, and my work uses these measurements to understand excited-state dynamics in low-dimensional materials. My research is centred on experimental photophysics, using ultrafast optical measurements to investigate the excited-state behaviour of low-dimensional materials.
 
 ---
 
 ## 🔬 Current Research
 
-I am completing my Master’s thesis at Lund University’s Division of Chemical Physics:
-**Time‑resolved exciton and spin dynamics in chiral 2D perovskites.**
+My master's research at the Division of Chemical Physics, Lund University, focused on investigating exciton and spin dynamics in chiral two-dimensional lead-halide perovskites using femtosecond transient absorption spectroscopy.
 
-This project combines:
-- Ultrafast pump–probe spectroscopy
-- Nanomaterials synthesis and thin‑film fabrication
-- Advanced data analysis (Python, Surface Xplorer)
-- Spin–phonon interactions and exciton dynamics
+The work involved:
+- Ultrafast pump–probe spectroscopy and nonlinear optics
+- Synthesis and fabrication of chiral and achiral 2D perovskite thin films
+- Transient absorption data analysis (Python, MATLAB, Surface Xplorer)
+- Exciton, spin, and phonon dynamics
+
+---
+
+## Research Interests
+
+- Experimental photophysics
+- Optical ultrafast spectroscopy
+- Excited-state dynamics
+- Chirality
+- Low-dimensional semiconductors
+- Nanophotonics
 
 ---
 
@@ -32,14 +39,6 @@ This project combines:
 - [Talks & Presentations](/talks/)
 - [Beyond the Lab](/beyond/)
 - [Contact](/contact/)
-
----
-
-## 🌍 Vision
-
-I believe science is not only about precision, but also about curiosity and creativity.
-My long‑term goal is to pursue a PhD in photonics and contribute to next‑generation technologies in sensing,
-communication, and quantum science.
 
 ---
 

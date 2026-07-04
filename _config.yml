@@ -1,4 +1,5 @@
 # Welcome to Jekyll!
+# Academic website of Pratik Bhagwat, featuring research in experimental photophysics, optical spectroscopy, publications, projects, teaching, and academic activities.
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,10 +10,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Pratik's Homepage"
+title                    : "Pratik Bhagwat"
 title_separator          : "-"
 name                     : &name "Pratik Bhagwat"
-description : &description "MSc in Photonics at Lund University | Physics & Photonics Enthusiast | Exploring science, language, and technology" # Update this with a general description of your site, this is the default if not overridden by a page
+description : &description "Academic website of Pratik Bhagwat featuring research, publications, projects, teaching, and academic activities in experimental photophysics and optical spectroscopy." # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://pratik-bhagwat-photonics.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io", # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pratik-bhagwat-photonics/pratik-bhagwat-photonics.github.io"
@@ -25,9 +26,9 @@ author:
   avatar           : "Pratik.jpg"
   name             : "Pratik Bhagwat"
   pronouns         : "he/him"
-  bio              : "MSc student in Photonics at Lund University. Passionate about physics, photonics, and ultrafast spectroscopy"
+  bio              : "Research in experimental photophysics using optical spectroscopy to investigate the physical processes that govern the behaviour of materials."
   location         : "Lund, Sweden"
-  employer         : "LTH, Lunds Universitet"
+  employer         : #"LTH, Lunds Universitet"
   uri              : "https://pratik-bhagwat-photonics.github.io"
   email            : "pratikbhagwat0379@gmail.com"
  
@@ -48,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  #github           : "pratik-bhagwat-photonics"
+  github           : "pratik-bhagwat-photonics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
